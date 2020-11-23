@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "name": "IVMF | EBV National",
+      "description": "The entrepreneurship bootcamp for veterans (EBV) EBV Accelerate is a bootcamp-style program focused on growth and tackles head-on…",
+      "type": "Education",
+      "sub_category": "Program",
+      "image": "https://alice-data-test.s3.us-east-2.amazonaws.com/gryphon/images/r_01.png"
+      
+    },
+    {
+      "name": "Top 5 Traits That Make Veterans Great Entrepreneurs",
+      "description": "Veterans make a great small business owners. Here’s why.",
+      "type": "Event",
+      "sub_category": "Networking",
+      "image": "https://alice-data-test.s3.us-east-2.amazonaws.com/gryphon/images/r_02.png"
+      
+    },
+    {
+      "name": "Supporting our Military Service Members and their Spouces",
+      "description": "Resources designed to empower veterans and their spouses as they re-enter civilian life.",
+      "type": "Funding",
+      "sub_category": "Lender",
+      "image": "https://alice-data-test.s3.us-east-2.amazonaws.com/gryphon/images/r_03.png"
+      
+    },
+    {
+      "name": "SoGal Black Founder Startup Grants",
+      "description": "SoGal Foundation and Winky Lux partnered to provide at least two $10K cash grants to Black women or nonbinary entrepreneurs.",
+      "type": "Network",
+      "sub_category": "Directory",
+      "image": "https://alice-data-test.s3.us-east-2.amazonaws.com/gryphon/images/r_04.png"
+      
+    },
+    {
+      "name": "Collab Capital",
+      "description": "Creating a new capital stack for Black innovators and entrepreneurs.",
+      "type": "Opportunity",
+      "sub_category": "Virtual",
+      "image": "https://alice-data-test.s3.us-east-2.amazonaws.com/gryphon/images/r_05.png",
+      
+    },
+    {
+      "name": "DivInc Social Justice Innovation Accelerator Fall 2020",
+      "description": "An accelerator program by DivInc to help entrepreneurs all over the country apply their skills to creating systems-level change.",
+      "type": "Tool",
+      "sub_category": "Product",
+      "image": "https://alice-data-test.s3.us-east-2.amazonaws.com/gryphon/images/r_06.png"
+      
+    },
+    {
+      "name": "The Doonie Fund: Supporting Black Women Entrepreneurs",
+      "description": "An initiative of digitalundivided, this fund makes micro investments in Black women entrepreneurs.",
+      "type": "Workspace",
+      "sub_category": "Office",
+      "image": "https://alice-data-test.s3.us-east-2.amazonaws.com/gryphon/images/r_07.png"
+      
+    }
+  ]
+}
